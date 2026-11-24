@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Long Nguyen. I'm a software engineer with a passion for creating innovative solutions.
+          Hello, I'm Long Nguyen Thanh. I'm a software engineer with a passion for creating innovative solutions.
         </p>
         
         <p>
